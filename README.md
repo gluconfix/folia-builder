@@ -2,7 +2,7 @@
 
 ## Overview
 
-Folia Builder, developed by GluconFix, serves the purpose of simplifying the build process for Folia, a Minecraft Server Software available at [PaperMC/Folia](https://github.com/PaperMC/Folia). It is important to note that Folia intentionally does not provide public builds to prevent unwarranted complaints about functionality issues. Folia is not recommended for production use.
+Folia Builder, developed by GluconFix, simplifies the build process for Folia, a Minecraft Server Software available at [PaperMC/Folia](https://github.com/PaperMC/Folia). Please note that Folia intentionally does not provide public builds to avoid unwarranted complaints about functionality issues. Folia is not recommended for production use.
 
 ## Important Note
 
@@ -14,6 +14,13 @@ Folia Builder, developed by GluconFix, serves the purpose of simplifying the bui
 
 - **Operating System:** Windows
 - **Admin Privileges:** The program requires administrative privileges to execute, as all actions take place in the root of the drive. The files are copied to the executable's folder at the end of the process due to a limitation with path length.
+
+## Download Instructions
+
+To download Folia Builder, follow these steps:
+
+1. Install [Git](https://git-scm.com/downloads): Ensure that Git is installed on your system.
+2. C++ Development Environment: If Mingw for C++ development is not set up on your system, you may need to download and install the required DLL files attached to the release.
 
 ## Caution
 

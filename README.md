@@ -19,8 +19,9 @@ Folia Builder, developed by GluconFix, simplifies the build process for Folia, a
 
 To download Folia Builder, follow these steps:
 
-1. Install [Git](https://git-scm.com/downloads): Ensure that Git is installed on your system.
-2. C++ Development Environment: If Mingw for C++ development is not set up on your system, you may need to download and install the required DLL files attached to the release and put them into the same directory as the exe file or inside a folder specified in the OS path variable.
+1. Install Java 17 or higher
+2. Install [Git](https://git-scm.com/downloads): Ensure that Git is installed on your system.
+3. C++ Development Environment: If Mingw for C++ development is not set up on your system, you may need to download and install the required DLL files attached to the release and put them into the same directory as the exe file or inside a folder specified in the OS path variable.
 
 ## Caution
 
